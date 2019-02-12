@@ -1,0 +1,30 @@
+- Tecnologias: Inteligência Artificial e Realidade Aumentada/Virtual;
+
+- Inteligência artificial é a capacidade de dispositivos eletrônicos de funcionar de uma maneira que lembra o pensamento humano. O objetivo central das pesquisas relacionadas a inteligência artificial baseia-se na ideia de fazer com que os computadores possam "pensar" exatamente como os humanos, criando análises, raciocinando, compreendendo e obtendo respostas para diferentes situações. O propósito da inteligência artificial é facilitar e agilizar a execução de tarefas repetitivas e dar fim à tarefas pouco impactantes no dia a dia;
+
+
+- Aplicações práticas da tecnologia em diferentes segmentos de mercado:
+
+- Educação: Identifica se um aluno está prestes a desistir de um curso ou cancelar a sua matrícula e sugere novos cursos ou cria ofertas para estimular na educação do aluno;
+
+- Assistentes pessoais virtuais: Os bancos terão funcionários digitais que irão ajudar a executar operações ou a responder nossas dúvidas agilizando o atendimento ao público. Também será possível organizar agendamentos de viagens, por exemplo, passagens, fazer reservas de hóteis, entre outros;
+
+- Manufatura e Supply Chain: Realiza levantamento de produtos e peças que necessitam de manutenção antes de apresentarem problemas, auxilia companhias de manufatura sobre o quanto comprar e/ou produzir, e com o uso da inovação são possíveis prever impactos e riscos de fornecedores;
+
+- Logística e Transporte: Desenvolvimento de veículos autônomos, como por exemplo carros, trens, caminhões, entre outros;
+
+- Saúde e Biotecnologia: No segmento de saúde, a AI ajuda médicos e pacientes a terem um diagnóstico mais rápido e muito mais acurado;
+
+- Agricultura: Simplificar e acelerar a tomada de decisão mais importante do negócio de qualquer produtor ou engenheiro agrônomo, sabendo quando é o melhor momento de plantar e colher ou até mesmo quais insumos utilizar;
+
+- Varejo: Conseguir fazer previsões de vendas e apontar o produto certo a ser recomendado para um determinado cliente, utilizar robôs para identificar se um livro terá ou não sucesso, até mesmo antes do seu lançamento, otimização de estoque para prever receitas e determinar quanto de um insumo deve ser comprado;
+
+- Serviços Financeiros: Auxiliar instituições financeiras a reconhecer riscos que um cliente pode representar, ou ainda prever padrões do mercado e as suas consequências;
+
+- Desafios na aplicação: substituição extrema do ser humano em atividades específicas;
+Referências:
+https://cio.com.br/proposito-da-inteligencia-arificial-nao-e-substituir-humanos-dizem-ibm-e-microsoft/;
+https://www.itforum365.com.br/tecnologia/8-aplicacoes-que-provam-que-inteligencia-artificial-ja-esta-entre-nos/;
+https://www.significados.com.br/inteligencia-artificial/;
+https://fia.com.br/blog/inteligencia-artificial/;
+https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial;
